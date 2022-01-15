@@ -45,7 +45,7 @@ Output
 
 * Count number of overweighted patients
 
-```python app.py --patient_records="[{\"Gender\": \"Male\", \"HeightCm\": 171, \"WeightKg\": 96 }, {\"Gender\": \"Male\", \"HeightCm\": 171, \"WeightKg\": 100 }]" get_bmi```
+```python app.py --patient_records="[{\"Gender\": \"Male\", \"HeightCm\": 171, \"WeightKg\": 96 }, {\"Gender\": \"Male\", \"HeightCm\": 175, \"WeightKg\": 85 }]" get_bmi```
 
 Output
 
